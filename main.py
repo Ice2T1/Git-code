@@ -1,3 +1,5 @@
+#python 小游戏
+
 import pygame
 import sys
 import random
